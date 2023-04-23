@@ -1,2 +1,2 @@
 # 100DiasDeRTL
-Repositório de aprendizado de RTL com Verilog, SystemVerilog e UVM.  Contém uma coleção de projetos de hardware para praticar design e verificação.
+Repositório é uma coleção de projetos que visam ajudar desenvolvedores de hardware a aprimorar suas habilidades em design de circuitos digitais. Com uma abordagem prática, os projetos propostos neste repositório permitem que os usuários trabalhem em diversas aplicações de RTL, como controle de fluxo de dados, gerenciamento de memória e interfaceamento com periféricos, entre outros. Ao seguir os desafios propostos, o usuário será capaz de aumentar sua proficiência na linguagem de descrição de hardware, bem como o uso de Verilog, SystemVerilog e UVM.
